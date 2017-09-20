@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39cf0a80-b583-4ea2-9777-ef59dab4f5db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/img/icons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/img/icons-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/loginBack.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/noPic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/option.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/position.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/showpassword.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/userHead.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/pictures/wrong.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/gakki/love/LoveGakki.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/gakki/love/config/SystemConstant.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/gakki/love/constant/MessageConstant.class" />
@@ -67,47 +48,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/pictures/userHead.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/pictures/wrong.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/gakki/love/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-doclet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/common.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/error.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/jdbc.sql.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/operate.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/config/SystemConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/constant/MessageConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/constant/PageConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/controller/CommonController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/controller/user/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/domain/Favourite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/domain/Follow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/domain/Notify.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/domain/Roles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/domain/dto/CommonResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/exception/GakkiException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/exception/GakkiExceptionHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/filter/EncodingFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/filter/LoginFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/repository/UserRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/CollectionsUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/EncryptUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/IntegerUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/MailUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/Pagination.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gakki/love/util/UserUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/ehcache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/static/xml/tags.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/gakki/love/EncryptTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/context.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/ehcache.xml" />
@@ -430,10 +371,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="love" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LovesGakki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -626,7 +563,7 @@
       <workItem from="1505835281787" duration="3072000" />
       <workItem from="1505874739251" duration="543000" />
       <workItem from="1505877845868" duration="559000" />
-      <workItem from="1505880078636" duration="2704000" />
+      <workItem from="1505880078636" duration="2864000" />
     </task>
     <task id="LOCAL-00001" summary="add read.txt">
       <created>1505264233223</created>
@@ -656,11 +593,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505812900041</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modify gakki">
+      <created>1505893349913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505893349939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60681000" />
+    <option name="totallyTimeSpent" value="60841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -743,7 +687,8 @@
     <MESSAGE value="add pom" />
     <MESSAGE value="add user" />
     <MESSAGE value="modify Controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify Controller" />
+    <MESSAGE value="modify gakki" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify gakki" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
