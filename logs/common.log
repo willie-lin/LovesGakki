@@ -190,3 +190,7 @@ Error starting ApplicationContext. To display the auto-configuration report re-r
 2017-09-13 21:40:21,846 INFO [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3e27ba32: startup date [Wed Sep 13 21:39:18 CST 2017]; root of context hierarchy
 2017-09-13 21:40:21,850 INFO [main] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
 2017-09-13 21:40:21,850 INFO [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2017-09-19 18:47:01,159 DEBUG [main] com.gakki.love.EncryptTest - $2a$10$T6RYjoJAI3cjmBCfXsVfN.zQi1zAGgeU9DPtwSyhtPxasY5MATQ9O
+2017-09-19 18:50:14,499 DEBUG [main] com.gakki.love.EncryptTest - $2a$10$PlAXhBJQ3euiwG0t/CBM2ea0/b4fRjxsAErUCB2PCND6EntAychj.
+2017-09-19 18:51:04,585 DEBUG [main] com.gakki.love.EncryptTest - $2a$10$Y5QBdpbBIP/c3DYL0l1EdeMjvc6yHTTnYT00VDIqtCVqSmXIvQNdO
+2017-09-19 18:53:44,064 DEBUG [main] com.gakki.love.EncryptTest - $2a$10$XUqXMA4IDkbi/iGmeheFGeisqscOFW8ykHWfyUdXeq67fMW3/vb26
